@@ -1,0 +1,32 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Streamlit config / cache
+.streamlit/
+*.log
+
+# Sensitive credentials
+.env
+*.pem
+*.key
+
+# Model weights & large datasets (keep repository lightweight)
+model/*.h5
+model/*.tflite
+*.tar.gz
+*.zip
+
+# Node / Web artifacts
+node_modules/
+dist/
+.DS_Store

@@ -1,0 +1,7 @@
+{
+  "name": "AI PlantCare Assistant",
+  "description": "Intelligent AI-powered plant identification, care recommendations, health dashboard, and Gemini chatbot for healthier plants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
